@@ -1,0 +1,14 @@
+.header {
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    background-color: #303750;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-left: 180px;
+}

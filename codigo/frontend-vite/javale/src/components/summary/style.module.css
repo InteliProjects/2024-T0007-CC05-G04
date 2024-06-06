@@ -1,0 +1,38 @@
+.title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    color: #008F83;
+    text-transform: uppercase;
+}
+
+.summaryTable {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.summaryTable th, .summaryTable td {
+    padding: 18px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.summaryTable td {
+    color: #008F83;
+    border-bottom: 1px solid #DFE5F9;
+    border-top: 1px solid #DFE5F9;
+}
+
+.summaryTable th {
+    background-color: #FAFBFF;
+    color: black;
+    text-transform: uppercase;
+    border-top: 1px solid #DFE5F9;
+    border-bottom: 1px solid #DFE5F9;
+}
+
+.summaryTable tr:hover td {
+    background-color: #DFE5F9;
+}

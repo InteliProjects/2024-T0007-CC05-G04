@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 3em;
+    padding-top: 3%;
+    width: 22vw;
+    height: 100%;
+}
+
+.titulo{
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.buscador{
+    width: 80%;
+    height: 40px;
+}
+
+.titulo_busca {
+    text-align: center;
+    font-weight: 600;
+}
+
+.input{
+    width: 80%;
+    height: 40px;
+    margin-top: 5%;
+    margin-left: 10%;
+    padding-left: 10px;
+}
